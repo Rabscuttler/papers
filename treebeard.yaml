@@ -1,5 +1,5 @@
 notebooks:
 - main.ipynb
-schedule: weekly  
+schedule: daily  
 secret:
   - secrets.json        
