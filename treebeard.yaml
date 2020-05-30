@@ -1,0 +1,4 @@
+notebooks:
+- main.ipynb
+secret:
+- secrets.json
